@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Zhanna. 
+### Hi there 👋 I'm Zhavgarat (Zhanna). 
 ### Java Developer fom Moscow
 #### 🌱 I’m currently learning Java and SQL.
 #### 📫 How to reach me: [email](mailto:zhavgaratk@gmail.com), [Telegram](https://t.me/umm_daniyal)
