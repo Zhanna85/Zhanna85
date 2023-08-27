@@ -39,7 +39,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Gmail-gren?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 <div>
-  <h2>Languages and tools</h2>
+  <h3>Languages and tools</h2>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" title="java" width="50" height="50"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" title="postgresql" width="50" height="50"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" title="spring" width="50" height="50"/>
